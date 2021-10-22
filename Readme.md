@@ -1,45 +1,36 @@
-<!-- WELCOME TO THE GRUNT/SCSS STARTER TEMPLATE 
-# Repo Features
-## Grunt Task Runner
-## Grunt Watch command
-## Grunt Image Optimization
-## Grunt js/css minifier
-## Grunt scss/sass pre processor
-## Bootstrap
-## SEO Optimized
--->
+
+# Features
+- Grunt Image Optimization
+- Grunt js/css minifier
+- Grunt scss/sass pre processor (auto watch)
+- Bootstrap
+- More Coming Soon
 
 
-<!-- Commands/How TO USE -->
-<!--- 
 To Start using grunt you would need to type the following commands in a 
 terminal that corresponds to the directory level the grunt file is located in.
 
-Commands are broken down into
+#Commands
 
-1) Dev Commands
+##Watch
 
-2) Live Commands
+Use the command
+"grunt watch"
 
-3) Test Commands
+##Dev Commands -
 
+Use the command
+"grunt dev"
 
->
+##Live Commands - 
 
-
-<!-- 
-Dev Commands -
-
--- grunt dev
-
-Live Commands - 
-
--- grunt dev
+Use the command
+"grunt live"
 
 
-TEST Commands -
+##TEST Commands -
 
--- grunt dev
+Use the command
+"grunt test"
 
 
- -->
