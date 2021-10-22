@@ -1,5 +1,11 @@
 {
   "dependencies": {
     "grunt": "^1.4.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-cssmin": "^4.0.0",
+    "grunt-contrib-imagemin": "^4.0.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
   }
 }
